@@ -51,7 +51,7 @@ int main() {
         printf("find key,pos=%d\n", pos);
     }
     else {
-        printf("not find\n");
+        printf("not find.\n");
     }
     return 0;
 }
