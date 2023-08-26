@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="binary_search.cpp" />
     <ClCompile Include="sequential_search.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="sequential_search_table.cpp" />
