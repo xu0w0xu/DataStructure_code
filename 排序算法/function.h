@@ -16,6 +16,8 @@ void insertion_sort(vector<int>& nums);
 void shell_sort(vector<int>& nums);
 //πÈ≤¢≈≈–Ú
 void merge_sort(vector<int>& nums);
-
-
+//øÏÀŸ≈≈–Ú
+void quick_sort(vector<int>& nums);
+//∂—≈≈–Ú
+void heap_sort(vector<int>& nums);
 #endif // !FUNCTION_H

@@ -23,8 +23,15 @@ int main() {
     ////希尔排序
     //shell_sort(nums);
 
-    //归并排序
-    merge_sort(nums);
+    ////归并排序
+    //merge_sort(nums);
+
+    ////快速排序
+    //quick_sort(nums);
+
+    //堆排序
+    heap_sort(nums);
+
 
     //打印排序后的数组
     cout << "Sorted array: ";
