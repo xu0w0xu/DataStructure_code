@@ -14,7 +14,8 @@ void selection_sort(vector<int>& nums);
 void insertion_sort(vector<int>& nums);
 //œ£∂˚≈≈–Ú
 void shell_sort(vector<int>& nums);
-
+//πÈ≤¢≈≈–Ú
+void merge_sort(vector<int>& nums);
 
 
 #endif // !FUNCTION_H
