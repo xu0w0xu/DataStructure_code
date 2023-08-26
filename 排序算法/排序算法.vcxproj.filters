@@ -39,6 +39,15 @@
     <ClCompile Include="heap_sort.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="counting_sort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="bucket_sort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="radix_sort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="function.h">
