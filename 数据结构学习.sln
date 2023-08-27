@@ -5,7 +5,7 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "顺序表", "线性表\线性表.vcxproj", "{144C686B-FA98-4DA5-AC22-75100AD09297}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "链表", "链表\链表.vcxproj", "{8F9C29CB-900B-4DEE-9F72-88026C6EA15C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "链式表", "链表\链表.vcxproj", "{8F9C29CB-900B-4DEE-9F72-88026C6EA15C}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "栈", "栈\栈.vcxproj", "{AA83C298-BDD1-4A47-A57A-418D2F511592}"
 EndProject
@@ -22,6 +22,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "排序算法", "排序算法\排序算法.vcxproj", "{B10DEDD4-7726-487B-81C9-070E16501A41}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "查找算法", "查找算法\查找算法.vcxproj", "{EB93FB08-9B82-4E48-8588-7BB238FE76F8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "二叉查找树", "二叉查找树\二叉查找树.vcxproj", "{3A2840C3-6318-40B3-8EE0-64BE1BA4C18B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,14 @@ Global
 		{EB93FB08-9B82-4E48-8588-7BB238FE76F8}.Release|x64.Build.0 = Release|x64
 		{EB93FB08-9B82-4E48-8588-7BB238FE76F8}.Release|x86.ActiveCfg = Release|Win32
 		{EB93FB08-9B82-4E48-8588-7BB238FE76F8}.Release|x86.Build.0 = Release|Win32
+		{3A2840C3-6318-40B3-8EE0-64BE1BA4C18B}.Debug|x64.ActiveCfg = Debug|x64
+		{3A2840C3-6318-40B3-8EE0-64BE1BA4C18B}.Debug|x64.Build.0 = Debug|x64
+		{3A2840C3-6318-40B3-8EE0-64BE1BA4C18B}.Debug|x86.ActiveCfg = Debug|Win32
+		{3A2840C3-6318-40B3-8EE0-64BE1BA4C18B}.Debug|x86.Build.0 = Debug|Win32
+		{3A2840C3-6318-40B3-8EE0-64BE1BA4C18B}.Release|x64.ActiveCfg = Release|x64
+		{3A2840C3-6318-40B3-8EE0-64BE1BA4C18B}.Release|x64.Build.0 = Release|x64
+		{3A2840C3-6318-40B3-8EE0-64BE1BA4C18B}.Release|x86.ActiveCfg = Release|Win32
+		{3A2840C3-6318-40B3-8EE0-64BE1BA4C18B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
